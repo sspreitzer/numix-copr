@@ -1,5 +1,5 @@
 # Numix Copr packages
-The repo hosts Source files for building packages in copr for Fedora and Red Hat
+The repo hosts Source files for building packages in copr for Fedora and derivatives.
 
 ## Installation
 The packages from copr can be installed with the following commands,
