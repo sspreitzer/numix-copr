@@ -5,7 +5,7 @@ The repo hosts Source files for building packages in copr for Fedora and derivat
 The packages from copr can be installed with the following commands,
 
 ```sh
-sudo dnf copr enable satya164/numix
+sudo dnf copr enable sspreitz/numix
 sudo dnf install numix-gtk-theme numix-icon-theme numix-icon-theme-circle
 ```
 
